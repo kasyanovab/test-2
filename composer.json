@@ -1,0 +1,15 @@
+{
+  "name": "kasyanovab/test-2",
+  "type": "prpject",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "danyu",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
