@@ -1,6 +1,5 @@
 {
-  "name": "kasyanovab/test-2",
-  "type": "prpject",
+  "name": "kasyanovab/test-1",
   "description": "description",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -11,6 +10,5 @@
     }
   ],
   "require": {
-    "kasyanovab/test-1": "1.0.0"
   }
 }

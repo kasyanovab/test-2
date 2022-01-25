@@ -1,0 +1,41 @@
+{
+    "packages": [
+        {
+            "name": "kasyanovab/test-1",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kasyanovab/test-1.git",
+                "reference": "7ea49c8bbf6ae777e9899a7c9a7c08b1792dbce3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/kasyanovab/test-1/zipball/7ea49c8bbf6ae777e9899a7c9a7c08b1792dbce3",
+                "reference": "7ea49c8bbf6ae777e9899a7c9a7c08b1792dbce3",
+                "shasum": ""
+            },
+            "time": "2022-01-25T05:07:05+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "danyu",
+                    "email": "email@example.com"
+                }
+            ],
+            "description": "description",
+            "support": {
+                "issues": "https://github.com/kasyanovab/test-1/issues",
+                "source": "https://github.com/kasyanovab/test-1/tree/1.0.0"
+            },
+            "install-path": "../kasyanovab/test-1"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
